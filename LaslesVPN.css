@@ -1,0 +1,60 @@
+body {
+    font-family: 'Rubik', sans-serif;
+      line-height: 1.5;
+    }
+
+.LaslesVPN
+{
+    margin-top:  89px;
+    display: flex;
+}
+.text{
+    width: 555px;
+}
+.laslesVPN_text{
+    font-family: 'Rubik';
+    font-weight: 500;
+    font-size: 50px;
+    flex-wrap: wrap;   
+}
+.laslesVPN_text span{
+    font-weight: 700;
+    font-size: 50px;
+}
+.laslesVPN_text_1{
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
+.button_content{
+    margin-top: 50px;
+    padding: 17.5px 77.5px;
+    border-radius: 10px;
+    border: 1px;
+    background-color:   #F53838;
+    color: #FFFFFF;
+}
+.icon{
+    margin-top: 103px;
+    display: flex;
+    justify-content: space-evenly
+}
+.icon_1{
+    display: flex;
+    gap: 36.5px;
+}
+.icon_2{
+    display: flex;
+    gap: 36.5px;
+}
+.icon_3{
+    display: flex;
+    gap: 36.5px;
+    
+}
+.size{
+    font-weight: 700;
+    font-size: 25px;
+}
+
+

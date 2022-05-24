@@ -1,0 +1,131 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+body {
+font-family: 'Rubik', sans-serif;
+  line-height: 1.5;
+}
+
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+input,
+button,
+textarea,
+select {
+  font: inherit;
+  outline: none;
+}
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  overflow-wrap: break-word;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul, li {
+    list-style: none;
+}
+
+.all{
+  margin-top: 58px;
+  max-width: 1240px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.heading_logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.vector{
+    width: 35px;
+
+    color: #F53838;
+}
+
+.heading_logo_text{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #0B132A;
+}
+.heading_logo_text span{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+
+}
+
+.heading_navar ul{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    list-style-type: none;
+}
+
+.heading_navar ul li a{
+    color: #4F5665;
+    font-weight: 400;
+    font-size: 16px;
+    transition: all 0.3s ease-in-out;
+}
+
+.heading_in_up {
+  display: flex;
+  align-items: center;
+  gap :30px;
+}
+
+.heading_in_up_signup{
+    padding: 13px 45px;
+    border: 1px solid #F53838;
+    border-radius: 50px;
+   
+}
+.heading_in_up_login
+{
+    font-weight: 500;
+    font-size: 16px;
+    color: #0B132A;
+}
+.heading_in_up_signup a{
+    font-weight: 500;
+    font-size: 16px;
+    color: #F53838;
+}
+

@@ -1,0 +1,65 @@
+.end{
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+}
+.end_logo{
+    margin-left: 13px;
+    display: flex;
+    align-items: center;
+    gap: 10px;    
+}
+.logo_s1z{
+    
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 24px;
+    color: #0B132A;
+}
+
+
+.logo_s1z span{
+    font-weight: 700px;
+    font-size: 21px;
+}
+
+.text_s1{
+    margin-left: 13px;
+    margin-top: 20px;
+    width: 340px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #4F5665;
+}
+.text_s1 span{
+    font-weight: 500;
+} 
+
+.end_icon{
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;
+}
+
+.end_2020{
+    margin-top: 25px;
+    margin-left: 13px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #4F5665;
+}
+
+.end_2020 span{
+    font-weight: 500;
+}
+
+.class_one{
+    font-weight: 500;
+    font-size: 18px;
+    color: #0B132A;
+}
+.st_2 p{
+    font-weight: 400;
+    font-size: 16px;
+    color: #4F5665;
+}

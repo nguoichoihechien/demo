@@ -1,0 +1,35 @@
+.Subscribe
+{
+    margin-top: 125px;
+    display: flex;
+    justify-content: space-around;
+    padding: 59px 70px;
+}
+.Subscribe h3{
+    width: 371px;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 45px;
+    flex-wrap: wrap;
+    color: #0B132A;
+
+}
+.Subscribe p{
+    width: 410px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #4F5665;
+}
+.subcribe_nude{
+    margin-top: auto;
+    margin-bottom: auto;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+.Subscribe a{
+    
+    padding: 17.5px 65px;
+    color: #FFFFFF;
+    background-color: #F53838;
+    border-radius: 10px;
+}

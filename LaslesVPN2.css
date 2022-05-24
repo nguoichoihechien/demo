@@ -1,0 +1,50 @@
+.LaslesVPN_2{
+    margin-top: 96px;
+    display: flex;
+    gap: 169px;
+}
+
+.LaslesVPN_text_1{
+    font-weight: 500;
+    font-size: 35px;
+    width: 383px;
+}
+
+.LaslesVPN_text_2{
+    margin-top: 20.45px;
+    font-weight: 400;
+    font-size: 16px;
+    width: 427px;
+}
+
+.LaslesVPN_text_3{
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.a11{
+margin-top: 15px;
+ display: flex;
+ gap: 12px;
+}
+
+.Choose{
+    margin-top: 80px;
+    text-align: center;
+}
+.Choose_1{
+    font-weight: 500;
+    font-size: 35px;
+    color: #0B132A;
+}
+.Choose_2{
+    width: 555px;
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #0B132A;
+    margin-left: auto;
+    margin-right: auto;
+}
+

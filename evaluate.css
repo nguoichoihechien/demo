@@ -1,0 +1,55 @@
+.evaluate{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+
+.evaluate_1{
+    width: 400px;
+    height: 230px;
+    border: 1px solid #DDDDDD;
+    border-radius: 10px;
+}
+#evaluate_1{
+    width: 400px;
+    border: 1px solid #F53838;
+    border-radius: 10px;
+}
+.user{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.user_1{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.user_1 h4{
+    font-weight: 400;
+    color: #4F5665;
+}
+
+.c11{
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 340px;
+    font-weight: 400;
+    font-size: 16px;    
+}
+.svg{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.svg_1{
+    display: flex;
+    gap: 15px; 
+}
+.s_12{
+    width: 148px;
+}

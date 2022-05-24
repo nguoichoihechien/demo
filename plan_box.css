@@ -1,0 +1,142 @@
+.Plan_box{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    
+}
+
+.freebox{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fl_11{
+   margin-top: 30px;
+   text-align: center;
+   font-weight: 500;
+   font-size: 18px;
+}
+.icon_11{
+    margin-top: 7px;
+}
+
+.fl_13{
+    display: flex;
+    margin-top: 10px;
+    gap: 25px;
+    margin-left: 12px;
+}
+
+.fl_13 svg{
+    align-items: center;
+}
+
+.plan_sell{
+    margin-top: 127px;
+}
+.plan_sell_1{
+    margin-top: 93px;
+}
+.plan_sell_2{
+    margin-top: 60px;
+}
+
+.fl_15{
+    margin-top: 33px;
+    padding: 13px 65px;
+    border: 1px solid #F53838;
+    border-radius: 50px;
+
+}
+.fl_15 a{
+        font-weight: 700;
+        font-size: 16px;
+        color: #F53838;        
+}
+
+.fl_14{
+    text-align: center;
+    font-weight: 500;
+    font-size: 30px;
+    color: #0B132A;
+
+}
+.fl_14 span{
+    text-align: center;
+    font-weight: 400;
+    font-size: 25px;
+    color:   #4F5665;
+
+}
+#fl_15{
+    margin-top: 33px;
+    padding: 13px 65px;
+    background-color: #F53838;
+    border-radius: 50px;
+    
+}
+#fl_15 a{
+        font-weight: 700;
+        font-size: 16px;
+        color: #FFFFFF;
+}
+
+.text_2{
+    margin-top: 150px;
+  text-align: center;
+}
+.text2_1{
+    width: 383px;
+    font-weight: 500;
+    font-size: 35px;
+    color: #0B132A;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text_2_2{
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #4F5665;
+}
+.text_2_2 span{
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #4F5665;
+}
+.world{
+    margin-top: 155px;
+}
+.application{
+    margin-top: 6.45px;
+}
+
+.text_3{
+    text-align: center;
+}
+.text_3_1{
+    width: 447px;
+    font-weight: 500;
+    font-size: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #0B132A;
+}
+.text_3_2{
+    width: 555px;
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #4F5665;
+}
+.free_plan{
+    border: 1px solid #DDDDDD;
+    border-radius: 10px;
+}
+#free_plan{  
+    border: 1px solid #F53838;;
+    border-radius: 10px;
+}
